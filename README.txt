@@ -1,0 +1,2 @@
+Open in NetBeans as a project.
+Game Shut The Box that allows you to toss 2 dice, then pick a combination of 9 tiles numbered 1-9 that have to add up to the value of the dice. You flip those tiles down, and then you continue with the next roll. You win when all the tiles have been flipped down.
